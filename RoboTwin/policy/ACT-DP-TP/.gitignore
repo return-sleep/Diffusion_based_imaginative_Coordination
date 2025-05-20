@@ -1,0 +1,35 @@
+aloha_maniskill_sim/
+models/
+data/
+__pycache__/
+policy/3D-Diffusion-Policy/3D-Diffusion-Policy/data/
+policy/3D-Diffusion-Policy/3D-Diffusion-Policy/checkpoints/
+result/
+*.ipynb
+third_party/
+result_dp3/
+RoboTwin/scripts
+# task_config/seeds/*.txt
+run_all_task.sh
+RoboTwin/scripts/*
+RoboTwin/script
+RoboTwin/vis_prediction.py
+# task_config/*
+*.zip
+checkpoints/
+data_zarr/
+dcgm/
+vis/
+RoboTwin/aloha_maniskill_sim/*
+RoboTwin/checkpoints/*
+RoboTwin/data_zarr/*
+RoboTwin/eval_video/*
+RoboTwin/outputs/*
+RoboTwin/dcgm/*
+RoboTwin/wandb/*
+RoboTwin/vis.ipynb
+# Code Generation
+robotwin.py
+gpt_api/*
+wandb/
+outputs/*

@@ -3,48 +3,29 @@ logs
 wandb
 outputs
 data
+data_local
 .vscode
-*.ipynb
 _wandb
-sim_data
-checkpoints
-Diffusion-Policy
-lerobot
-*.txt
-# misc
+
 **/.DS_Store
-*.png
+
 fuse.cfg
-# misc
-0_data
-constants.py
-checkpoints
+
 *.ai
-*.out
-RoboTwin/policy/ACT-DP-TP/instruction_files/*
-ALOHA/Cosmos-Tokenizer
-ALOHA/Cosmos-Tokenizer/*
-RoboTwin/policy/ACT-DP-TP/instruction_files
-RoboTwin/policy/ACT-DP-TP/instruction_files/*
-RoboTwin/policy/ACT-DP-TP/aloha_maniskill_sim
-RoboTwin/policy/ACT-DP-TP/aloha_maniskill_sim/*
-RoboTwin/policy/ACT-DP-TP/Cosmos-Tokenizer
-RoboTwin/policy/ACT-DP-TP/Cosmos-Tokenizer/*
-RoboTwin/policy/ACT-DP-TP/data
-RoboTwin/policy/ACT-DP-TP/data/*
-RoboTwin/policy/ACT-DP-TP/checkpoints
-RoboTwin/policy/ACT-DP-TP/checkpoints/*
+
 # Generation results
 results/
-*.mp4
+
 ray/auth.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 # C extensions
 *.so
+
 # Distribution / packaging
 .Python
 build/
@@ -71,7 +52,7 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
-ALOHA/proc
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -155,3 +136,7 @@ celerybeat.pid
 .dmypy.json
 dmypy.json
 
+# Pyre type checker
+.pyre/
+
+/data/RoboTwin_private/policy/3D-Diffusion-Policy/3D-Diffusion-Policy/diffusion_policy_3d/config/robot_dp3.yaml
