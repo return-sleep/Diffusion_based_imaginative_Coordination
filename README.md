@@ -64,7 +64,7 @@ python script/pkl2zarr_mypolicy.py block_hammer_beat D435 100
 #### Training scripts
 ``` 
 cd policy/ACT-DP-TP
-bash scripts/train.sh block_hammer_beat 0 0 
+bash scripts/act_dp_tp/train.sh block_hammer_beat 0 0 
 # bash scripts/train.sh ${task_name} ${gpu_id} ${seed}
 ``` 
 #### Evaluation  scripts
