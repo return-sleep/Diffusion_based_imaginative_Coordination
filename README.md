@@ -61,13 +61,13 @@ python script/pkl2zarr_mypolicy.py block_hammer_beat D435 100
 # python script/pkl2zarr_mypolicy.py ${task_name} ${head_camera_type} ${expert_data_num}
 ```
 ### 🚀 Model training and evaluation 
-#### Training scripts
+#### Training script
 ``` 
 cd policy/ACT-DP-TP
 bash scripts/act_dp_tp/train.sh block_hammer_beat 0 0 
 # bash scripts/train.sh ${task_name} ${gpu_id} ${seed}
 ``` 
-#### Evaluation  scripts
+#### Evaluation  script
 ```
 bash scripts/act_dp_tp/eval.sh block_hammer_beat 0 0 0
 # bash scripts/eval.sh ${task_name} ${gpu_id} ${seed} ${ckpt_type}
