@@ -18,7 +18,11 @@
 
 <!-- ## ?Download Pretrained Weights -->
 
-
+## Clone the source code
+```
+https://github.com/return-sleep/Diffusion_based_imaginative_Coordination.git
+cd Diffusion_based_imaginative_Coordination
+```
 ## ALOHA
 
 ### 🔧 Installation
