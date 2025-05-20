@@ -73,6 +73,17 @@ bash scripts/act_dp_tp/eval.sh block_hammer_beat 0 0 0
 # bash scripts/eval.sh ${task_name} ${gpu_id} ${seed} ${ckpt_type}
 ```
 
+## 🙏 Acknowledgements
+
+Our project builds upon the following excellent repositories:
+
+- [ACT](https://github.com/tonyzhaozh/act) 
+- [Cosmos-Tokenizer](https://github.com/NVIDIA/Cosmos-Tokenizer) 
+- [RoboTwin](https://github.com/TianxingChen/RoboTwin) 
+
+We sincerely thank the authors for their inspiring work and open-source contributions.
+
+
 ## Citation
 If you find our work helpful, please cite us:
 ```bibtex
