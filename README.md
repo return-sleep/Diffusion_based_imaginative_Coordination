@@ -11,7 +11,7 @@
 </table>
 
 
-<p align="center"><b>Figure 2:</b> Task visualization and results overview.</p>
+<p align="center"><b>Figure 2:</b> Task visualization and results overview (2 ALOHA + 16 RoboTwin + 4 Real-world tasks).</p>
 
 ## 📰 News
 `May 20th, 2025`:   We released our code and model.
