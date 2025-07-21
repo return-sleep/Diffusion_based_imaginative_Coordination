@@ -14,6 +14,8 @@
 <p align="center"><b>Figure 2:</b> Task visualization and results overview (2 ALOHA + 16 RoboTwin + 4 Real-world tasks).</p>
 
 ## 📰 News
+`June 25th, 2025`:  Our paper is accepted by ICCV 2025.
+
 `May 20th, 2025`:   We released our code and model.
 
 <!-- ## ?Download Pretrained Weights -->
@@ -91,6 +93,15 @@ We sincerely thank the authors for their inspiring work and open-source contribu
 ## Citation
 If you find our work helpful, please cite us:
 ```bibtex
+@misc{xu2025diffusionbasedimaginativecoordinationbimanual,
+      title={Diffusion-Based Imaginative Coordination for Bimanual Manipulation}, 
+      author={Huilin Xu and Jian Ding and Jiakun Xu and Ruixiang Wang and Jun Chen and Jinjie Mai and Yanwei Fu and Bernard Ghanem and Feng Xu and Mohamed Elhoseiny},
+      year={2025},
+      eprint={2507.11296},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2507.11296}, 
+}
 ```
 ## License
 All the code, model weights, and data are licensed under [MIT license](./LICENSE).
